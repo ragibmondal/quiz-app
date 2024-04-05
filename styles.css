@@ -1,0 +1,8 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+#quiz-container {
+  width: 500px;
+  margin: auto;
+}
